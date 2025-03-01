@@ -19,7 +19,7 @@
   />
 </p>
 
-I’m currently pursuing a **Bachelor of Computer Applications(BCA) and gaining
+I’m currently pursuing a Bachelor of Computer Applications(BCA) and gaining
 experience in software development and modern technologies.🚀
 
 👨‍💻 My Portfolio
