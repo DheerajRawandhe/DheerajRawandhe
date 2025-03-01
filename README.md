@@ -19,10 +19,12 @@
   />
 </p>
 
-- I’m currently pursuing a **Bachelor of Computer Applications(BCA) and gaining
-experience in software development and modern technologies.🚀** - 👨‍💻 My
-Portfolio
+I’m currently pursuing a **Bachelor of Computer Applications(BCA) and gaining
+experience in software development and modern technologies.🚀
+
+👨‍💻 My Portfolio
 [https://dheerajrawandhe.github.io/My-Portfolio/](https://dheerajrawandhe.github.io/My-Portfolio/)
+
 - Email **dheerajrawandhe57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
