@@ -27,7 +27,7 @@ experience in software development and modern technologies.🚀
 
 - Email **dheerajrawandhe57@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :- </h3>
 <p align="left">
   <a href="https://twitter.com/dheerajrawandhe" target="blank"
     ><img
@@ -63,7 +63,7 @@ experience in software development and modern technologies.🚀
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :- </h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
