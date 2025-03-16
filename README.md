@@ -215,6 +215,7 @@ experience in software development and modern technologies.🚀
   </a>
 </p>
 
+<div>
 <p>
   <img
     align="left"
@@ -222,6 +223,7 @@ experience in software development and modern technologies.🚀
     alt="dheerajrawandhe"
   />
 </p>
+</div>
 
 <div>
 <p>
