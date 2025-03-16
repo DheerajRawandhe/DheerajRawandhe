@@ -206,7 +206,7 @@ experience in software development and modern technologies.🚀
     />
   </a>
 
-  <div>
+
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -216,7 +216,7 @@ experience in software development and modern technologies.🚀
     />
   </a>
 </p>
-</div>
+
   
 <div>
 <p>
@@ -238,6 +238,7 @@ experience in software development and modern technologies.🚀
 </p>
 </div>
 
+<div>
 <p>
   <img
     align="center"
@@ -245,3 +246,4 @@ experience in software development and modern technologies.🚀
     alt="dheerajrawandhe"
   />
 </p>
+</div>
