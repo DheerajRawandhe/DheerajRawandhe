@@ -37,7 +37,6 @@ experience in software development and modern technologies.🚀
       height="30"
       width="40"
   /></a>
-  
   <a href="https://linkedin.com/in/dheerajrawandhe" target="blank"
     ><img
       align="center"
@@ -46,7 +45,6 @@ experience in software development and modern technologies.🚀
       height="30"
       width="40"
   /></a>
-  
   <a href="https://www.facebook.com/dheeraj.rawandhe.5" target="blank"
     ><img
       align="center"
@@ -55,7 +53,6 @@ experience in software development and modern technologies.🚀
       height="30"
       width="40"
   /></a>
-  
   <a href="https://instagram.com/___.dhiruu.___18" target="blank"
     ><img
       align="center"
