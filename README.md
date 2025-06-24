@@ -18,10 +18,6 @@
     alt="dheerajrawandhe"
   />
 </p>
-
-I’m currently pursuing a Bachelor of Computer Applications(BCA) and gaining
-experience in software development and modern technologies.🚀
-
 - Email **dheerajrawandhe57@gmail.com**
   
 <h3 align="left">Connect with me :- </h3>
