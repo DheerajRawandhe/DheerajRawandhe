@@ -22,7 +22,7 @@ Email :- dheerajrawandhe57@gmail.com
   
 <h3 align="left">Connect with me :- </h3>
 <p align="left">
-  <a href="https://twitter.com/dheerajrawandhe" target="blank"
+  <a href="https://x.com/DRawandhe06" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -46,7 +46,7 @@ Email :- dheerajrawandhe57@gmail.com
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/___.dhiruu.___18" target="blank"
+  <a href="https://www.instagram.com/_dheeraj._18" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
