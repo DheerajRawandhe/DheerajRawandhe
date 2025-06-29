@@ -7,7 +7,7 @@
 
 <img
   align="right"  
- src="[https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif])" 
+ src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" 
   
   alt="img"
   width="400"
