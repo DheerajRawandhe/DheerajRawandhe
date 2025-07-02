@@ -13,7 +13,7 @@
 </p>
 Email :- dheerajrawandhe57@gmail.com
 
-<p> Portfolio :- https://dheerajrawandhe06.netlify.app/ </p>
+<p> Portfolio :- https://dheerajrawandhe6.netlify.app/ </p>
 <h3 align="left">Connect with me :- </h3>
 <p align="left">
   <a href="https://x.com/DRawandhe06" target="blank"
